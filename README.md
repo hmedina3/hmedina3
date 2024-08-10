@@ -1,6 +1,6 @@
 <!-- Github Profile Header -->
 
-# 👋 Hi, I'm Hector!
+# 👋 Hi, I'm Hector and welcome to my github!
 👨‍💻 First generation Hispanic-American software engineer.<br/>
 🌴 Los Angeles born and raised<br/>
 🤝 Advocate for Hispanics/Latinos in STEM, science, tech, engineering, and mathematics<br/>
