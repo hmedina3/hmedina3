@@ -9,7 +9,7 @@
 👾 Making videos about Computer Science, tech, and life on [YouTube](https://www.youtube.com/@EliteDance--ii)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=hmedina3&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hmedina3&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
