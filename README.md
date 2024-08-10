@@ -38,6 +38,6 @@
 # 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
-<!-- BEGIN YOUTUBE-CARDS -->
-[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Ny41IJWMw7Q&title=Fragments+of+You&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
-<!-- END YOUTUBE-CARDS -->
+<!-- BEGIN YOUTUBE-CARDS
+[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Ny41IJWMw7Q&title=Fragments+of+You&lang=en&timestamp=&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+END YOUTUBE-CARDS -->
