@@ -1,13 +1,12 @@
 <!-- Github Profile Header -->
 
 # 👋 Hi, I'm Hector and welcome to my GitHub!
-👨‍💻 First generation Hispanic-American software engineer.<br/>
+👨‍💻 First generation Hispanic-American software engineer<br/>
 🌴 Los Angeles born and raised<br/>
 🤝 Advocate for Hispanics/Latinos in STEM, science, tech, engineering, and mathematics<br/>
 👩🏻‍🎓 Studied [Computer Science: Game Design](https://admissions.ucsc.edu/programs/computer-science-computer-game-design)  at the University of California, Santa Cruz!<br/>
 💭 Currently learning about game engines and [distrubted systems](http://decomposition.al/CSE138-2021-03/)!<br/>
-🎨 Making videos about Computer Science, tech, and life on [YouTube](https://www.youtube.com/@EliteDance--ii)<br/>
-👾 Game Design Expert
+👾 Making videos about Computer Science, tech, and life on [YouTube](https://www.youtube.com/@EliteDance--ii)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=hmedina3&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -40,5 +39,5 @@
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Ny41IJWMw7Q&title=Fragments+of+You&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 <!-- END YOUTUBE-CARDS -->
