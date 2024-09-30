@@ -1,7 +1,7 @@
 <!-- Github Profile Header -->
 
 # 👋 Hi, I'm Hector and welcome to my GitHub!
-👨‍💻 First generation Hispanic-American software engineer<br/>
+👨‍💻 First generation Hispanic-American Computer Scientist<br/>
 🌴 Los Angeles born and raised<br/>
 🤝 Advocate for Hispanics/Latinos in STEM, science, tech, engineering, and mathematics<br/>
 👩🏻‍🎓 Studied [Computer Science: Game Design](https://admissions.ucsc.edu/programs/computer-science-computer-game-design)  at the University of California, Santa Cruz!<br/>
