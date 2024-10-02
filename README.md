@@ -4,7 +4,7 @@
 👨‍💻 First generation Hispanic-American Computer Scientist<br/>
 🌴 Los Angeles born and raised<br/>
 🤝 Advocate for Hispanics/Latinos in STEM, science, tech, engineering, and mathematics<br/>
-👩🏻‍🎓 Studied [Computer Science: Game Design](https://admissions.ucsc.edu/programs/computer-science-computer-game-design)  at the University of California, Santa Cruz!<br/>
+👩🏻‍🎓 Studied [Computer Science: Game Design](https://admissions.ucsc.edu/programs/computer-science-computer-game-design) and graduated at the University of California, Santa Cruz!<br/>
 💭 Currently learning about game engines and [distrubted systems](http://decomposition.al/CSE138-2021-03/)!<br/>
 <!--👾 Making videos about Computer Science, tech, and life on [YouTube](https://www.youtube.com/@EliteDance--ii)<br/> -->
 
