@@ -1,11 +1,11 @@
 <!-- Github Profile Header -->
 
 # 👋 Hi, I'm Hector and welcome to my GitHub!
-👨‍💻 First generation American Computer Scientist<br/>
+👨‍💻 First generation American Computer Scientist and Graduate Student at USC<br/>
 🌴 Los Angeles born and raised<br/>
 🤝 Advocate for Hispanics/Latinos in STEM (science, tech, engineering, and mathematics)<br/>
 👩🏻‍🎓 Studied [Computer Science - Game Design](https://admissions.ucsc.edu/programs/computer-science-computer-game-design) and graduated with my Bachelor's of Science in 2022 from UC Santa Cruz!<br/>
-💭 Currently learning about machine learning, and [distrubted systems](http://decomposition.al/CSE138-2021-03/)!<br/>
+⚔️ Currently learning about Machine Learning, and Large Language Models at USC! Fight On!
 <!--👾 Making videos about Computer Science, tech, and life on [YouTube](https://www.youtube.com/@EliteDance--ii)<br/> -->
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
